@@ -1,2 +1,2 @@
 # MDinero
- MOney Transfer Mobile Application Prototype
+ Money Transfer Mobile Application Prototype
